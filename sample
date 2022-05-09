@@ -1,4 +1,8 @@
 First line
 second line 
 Third line
+<<<<<<< HEAD
 forth line by bala
+=======
+Fourth line by me
+>>>>>>> checkout
