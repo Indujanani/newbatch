@@ -3,6 +3,11 @@ second line
 Third line
 <<<<<<< HEAD
 forth line by bala
+<<<<<<< HEAD
 =======
 Fourth line by me
 >>>>>>> checkout
+||||||| parent of 7252f30 (jivin commit)
+=======
+Jivin
+>>>>>>> 7252f30 (jivin commit)
